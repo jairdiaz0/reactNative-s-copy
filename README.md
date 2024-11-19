@@ -1,3 +1,6 @@
+OJO HAY QUE PONER UNA INFORMACIÓN PROPIA PARA FIREBASE:
+reactNative-s-copy/src/services/firebaseconnection.ts
+
 # reactNative-s-copy
 
 **reactNative-s-copy** es una aplicación de música inspirada en Spotify, creada utilizando React Native, Firebase y otras tecnologías modernas. Permite a los usuarios iniciar sesión a través de Firebase Authentication, buscar canciones, reproducir música en pantalla completa, y agregar nuevas canciones a su lista de reproducción.
